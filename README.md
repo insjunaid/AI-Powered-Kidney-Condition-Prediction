@@ -1,7 +1,6 @@
-# AI Powered Kidney Condition Prediction
-
 # Kidney Health Detection Using Deep Learning
 ![Screenshot 2024-12-12 223257](https://github.com/user-attachments/assets/9be2b570-206b-47fa-bdc8-56e31a806525)
+
 This repository contains a PyTorch-based implementation for detecting kidney conditions using CT scan images. The project classifies CT scans into four categories (Normal, Cyst, Tumor, Stone) and provides a Flask web application to upload images and obtain predictions.
 
 ## Table of Contents
