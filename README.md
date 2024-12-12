@@ -65,7 +65,7 @@ Training data is augmented with transformations including:
 
 ### Training Script
 Key features of the training script:
-- Early stopping with patience of 4 epochs
+- Early stopping with patience of 2 epochs
 - Weighted cross-entropy loss to handle class imbalance
 - Adam optimizer with learning rate scheduler
 
