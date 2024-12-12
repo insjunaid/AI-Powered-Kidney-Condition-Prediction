@@ -111,6 +111,8 @@ pip install -r requirements.txt
 
 ## Conclusion
 This project demonstrates the potential of deep learning in medical imaging for kidney health assessment. The model provides accurate and actionable predictions, supporting early detection and improved patient outcomes.
+
+
 Contributors
 
 Junaid Shariff
